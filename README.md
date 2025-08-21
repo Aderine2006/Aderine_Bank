@@ -1,4 +1,4 @@
-# 🏦 Aderine Bank (Python OOP Project)
+# 🏦 Aderine Bank (Python OOPS Project)
 
 This is a simple **Banking System** built with Python using **Object-Oriented Programming** concepts.
 
